@@ -1,6 +1,6 @@
 ---
 
-# Tytuł Projektu: [Nazwa, np. „Interaktywne Warcaby w języku C”]
+# Tytuł Projektu: Gra "Saper" wykonana w języku C
 
 🇵🇱 Polski | [🇬🇧 English](README.md)
 
